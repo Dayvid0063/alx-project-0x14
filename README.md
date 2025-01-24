@@ -70,7 +70,7 @@ The MovieDatabase API provides comprehensive access to movie information, includ
 ### Endpoints
 - `/titles/search`: Search movies
 - `/titles/{id}`: Get movie details
-- `/titles/series/{id}/episodes`: Get series episodes
+- `/titles/series/{id}/episodes`: Get series episodes.
 
 ### Error Handling
 - 400: Bad Request
